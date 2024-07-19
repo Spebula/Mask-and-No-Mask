@@ -13,4 +13,7 @@ Ensure you have the libraries installed in order to run this.
 1. For this project, you'll need a webcam connected to your NVIDIA Jetson nano device. Once you have your data, you can train and test the model. 
 2. PyTorch and OpenCV
 
+### Video:
+https://drive.google.com/file/d/1GeK7VRCLVzK6FZCYWg-O_u3tdS6bP0iP/view?usp=sharing
+
 
