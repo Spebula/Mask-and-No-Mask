@@ -14,6 +14,5 @@ Ensure you have the libraries installed in order to run this.
 2. PyTorch and OpenCV
 
 ### Video:
-https://drive.google.com/file/d/1GeK7VRCLVzK6FZCYWg-O_u3tdS6bP0iP/view?usp=sharing
-
+https://drive.google.com/file/d/1GeK7VRCLVzK6FZCYWg-O_u3tdS6bP0iP/view?usp=drive_link
 
